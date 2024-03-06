@@ -1,16 +1,16 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "name": "Learn JS",
     "complete": false
   },
   {
-    "id": "2",
+    "id": 2,
     "name": "HomeWork",
     "complete": false
   },
    {
-    "id": "3",
+    "id": 3,
     "name": "Yoga",
     "complete": false
   }
