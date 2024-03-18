@@ -1,0 +1,1 @@
+The project focuses on deepening the understanding of efficient Docker usage and achieving seamless integration with AWS services. It provides a practical approach to building, deploying, and scaling applications in highly dynamic cloud environments.
